@@ -9,11 +9,13 @@ sites:
     url: https://api.basecamp.wtf/stats/platform
     headers:
       - "X-Sudo-Dev: $API_DEV_TOKEN"
+      - "Content-Type: application/json"
   - name: Defined.fi
-    url: https://graph.codex.io/graphql
     method: POST
+    url: https://graph.codex.io/graphql
     headers:
-      - "Authorization: $DEFINED_API_KEY"
+      - "Authorization:$DEFINED_API_KEY"
+      - "Content-Type: application/json"
     body: '{ "query": "{ getNetworks { name, id } }"}'
 
 status-website:
