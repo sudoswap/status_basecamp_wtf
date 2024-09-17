@@ -21,8 +21,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /status_basecamp_wtf
+  cname: status.basecamp.wtf
   logoUrl: https://sudoswap.github.io/status_basecamp_wtf/logo.png
   themeUrl: https://sudoswap.github.io/status_basecamp_wtf/theme.css
   name: Basecamp Status
