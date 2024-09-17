@@ -8,7 +8,7 @@ sites:
   - name: Basecamp API
     url: https://api.basecamp.wtf/stats/platform
     headers:
-      - "X-Sudo-Dev:$API_DEV_TOKEN"
+      - "x-api-key:$API_DEV_TOKEN"
       - "Content-Type: application/json"
   - name: Defined.fi
     method: POST
