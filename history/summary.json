@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 117,
-    "timeDay": 117,
-    "timeWeek": 117,
-    "timeMonth": 117,
-    "timeYear": 117,
+    "time": 197,
+    "timeDay": 197,
+    "timeWeek": 197,
+    "timeMonth": 197,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.basecamp.wtf.ico",
     "slug": "basecamp-api",
     "status": "down",
-    "uptime": "5.78%",
-    "uptimeDay": "5.78%",
-    "uptimeWeek": "5.78%",
-    "uptimeMonth": "5.78%",
-    "uptimeYear": "5.78%",
-    "time": 404,
-    "timeDay": 404,
-    "timeWeek": 404,
-    "timeMonth": 404,
-    "timeYear": 404,
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
+    "time": 320,
+    "timeDay": 320,
+    "timeWeek": 320,
+    "timeMonth": 320,
+    "timeYear": 320,
     "dailyMinutesDown": {
-      "2024-09-17": 0
+      "2024-09-17": 12
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://graph.codex.io/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/graph.codex.io.ico",
     "slug": "defined-fi",
-    "status": "down",
-    "uptime": "7.15%",
-    "uptimeDay": "7.15%",
-    "uptimeWeek": "7.15%",
-    "uptimeMonth": "7.15%",
-    "uptimeYear": "7.15%",
-    "time": 191,
-    "timeDay": 191,
-    "timeWeek": 191,
-    "timeMonth": 191,
-    "timeYear": 191,
+    "status": "up",
+    "uptime": "1.53%",
+    "uptimeDay": "1.53%",
+    "uptimeWeek": "1.53%",
+    "uptimeMonth": "1.53%",
+    "uptimeYear": "1.53%",
+    "time": 331,
+    "timeDay": 331,
+    "timeWeek": 331,
+    "timeMonth": 331,
+    "timeYear": 331,
     "dailyMinutesDown": {
-      "2024-09-17": 0
+      "2024-09-17": 11
     }
   }
 ]
