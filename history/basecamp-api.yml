@@ -1,7 +1,7 @@
 url: https://api.basecamp.wtf/stats/platform
-status: down
-code: 502
-responseTime: 430
-lastUpdated: 2024-11-22T16:08:04.610Z
+status: up
+code: 200
+responseTime: 101
+lastUpdated: 2024-11-22T17:03:48.928Z
 startTime: 2024-09-17T01:32:33.917Z
 generator: Upptime <https://github.com/upptime/upptime>
